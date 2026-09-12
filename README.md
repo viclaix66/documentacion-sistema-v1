@@ -17,6 +17,7 @@ Este es un **sistema de ventas e inventario en tiempo real** optimizado para el 
 | Autenticación | Control de acceso y roles de usuario | Completado |
 | Inventario | Registro y conteo de productos | En Proceso |
 | Facturación | Generación de comprobantes de pago | Pendiente |
+``
 
 ## 4. Ejemplo de Código Fuente
 python
@@ -25,6 +26,8 @@ if cantidad > 0:
 return "Producto Disponible"
 else:
 return "Sin Stock"
+``
+
 ## 5. Enlaces Útiles
 
 - [Repositorio Oficial en GitHub](https://github.com)
