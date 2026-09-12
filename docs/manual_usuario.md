@@ -1,39 +1,23 @@
-# Especificación de Endpoints
+# Manual de Usuario - Guía de Inicio Rápido
 
-Esta sección documenta los servicios web (Web API) disponibles para la integración con otros sistemas.
+## 1. Requisitos del Sistema
+- Navegador web moderno (Google Chrome, Mozilla Firefox, Microsoft Edge).
+- Conexión a la red local de la empresa.
+- Entorno de ejecución Python 3.10 o superior instalado.
 
-## 1. Listado de Servicios Web
+## 2. Pasos para Iniciar la Aplicación
+1. Abrir la terminal o consola de comandos del sistema operativo.
+2. Navegar a la carpeta raíz del proyecto y ejecutar el comando de arranque:
+   ```bash
+   python main.py
 
-| Método HTTP | Ruta | Descripción | Parámetros Exigidos |
-|---|---|---|---|
-| `GET` | `/api/v1/usuarios` | Obtiene el listado completo de usuarios registrados. | Ninguno |
-| `POST` | `/api/v1/usuarios` | Registra un nuevo usuario en la base de datos. | `nombre`, `correo`, `rol` |
-| `GET` | `/api/v1/reportes` | Genera y descarga el reporte mensual en PDF. | `mes` (numérico) |
+   [Inicio de Sesión] ---> [Seleccionar Módulo] ---> [Procesar Datos] ---> [Cerrar Sesión]
 
-## 2. Códigos de Respuesta HTTP
+   ## 4. Captura de Pantalla del Sistema
+*(Asegúrate de guardar una imagen llamada `pantalla.png` dentro de la carpeta `docs/assets/` o usa una imagen de prueba)*.
 
-**Estándar de Errores:** Todos los servicios responden utilizando códigos de estado HTTP estándar.
+![Vista Previa del Sistema](assets/pantalla.png)
 
-- **200 OK:** La solicitud fue procesada exitosamente.
-- **400 Bad Request:** Datos de entrada inválidos o faltantes.
-- **404 Not Found:** El recurso solicitado no existe en el servidor.
-- **500 Internal Server Error:** Error interno en la lógica de Python o en la base de datos MySQL.
-
-## 3. Ejemplo de Respuesta JSON
-
-```json
-{
-  "status": 200,
-  "message": "Usuario registrado exitosamente",
-  "data": {
-    "id": 105,
-    "nombre": "Carlos López",
-    "rol": "Desarrollador"
-  }
-}
-```
-## 4. Navegación
-
-- [Ver Manual de Usuario](manual_usuario.md)
+## 5. Navegación
 - [Ver Arquitectura del Sistema](arquitectura.md)
 - [Volver al README Principal](../README.md)
