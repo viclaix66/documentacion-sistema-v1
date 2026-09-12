@@ -3,12 +3,14 @@
 ## 1. Descripción del Proyecto
 
 Este es un **sistema de ventas e inventario en tiempo real** optimizado para el control de existencias y facturación[cite: 1]. Desarrollado exclusivamente para la empresa *TechStore*, permite **agilizar los procesos comerciales** y garantizar una administración eficiente[cite: 1].
+``
 
 ## 2. Requisitos del Sistema
 
 - [x] Python 3.10 o superior instalado
 - [x] Base de Datos MySQL configurada
 - [ ] Documentación técnica completada
+``
 
 ## 3. Módulos del Sistema
 
