@@ -9,3 +9,4 @@ El presente documento definelo srequisitos funcionales del **Sistema de Gestión
 ## 3. Especificación de Relaciones
 * **Relaciones<<include>>:** *Reservar Cita* y *Generar Factura* requieren obligatoriamente la autenticación previa del usuario en el sistema.
 * **Relaciones<<include>>:** *Aplicar Descuento de Seguro* se ejecuta únicamente si la factura generada cuenta con cobertura médica.
+  
