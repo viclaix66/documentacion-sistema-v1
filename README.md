@@ -36,4 +36,4 @@ return "Sin Stock"
 - [Ver Arquitectura del Sistema](docs/arquitectura.md)
 - [Ver Manual de Usuario](docs/manual_usuario.md)
 - [Ver Especificacion de API](docs/api_endpoints.md)
-- [Repositorio Oficial en GitHub] (https://github.com/gaps3600/documentacion-sistema-v1-)
+- [Repositorio Oficial en GitHub] (https://github.com/viclaix66/documentacion-sistema-v1-)
