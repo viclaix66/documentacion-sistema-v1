@@ -38,5 +38,5 @@ return "Sin Stock"
 - [Ver Especificacion de API](docs/api_endpoints.md)
 - [Ver Guia de Despliegue](docs/despliegue.md)
 - [Ver Politicas de Seguridad](docs/seguridad.md)
-- [Ver Historial de Cambios (CHANGELOG)] (CHANGELOG.md)
-- [Repositorio Oficial en GitHub] (https://github.com/gaps3600/documentacion-sistema-v1-)
+- [Ver Historial de Cambios (CHANGELOG)](CHANGELOG.md)
+- [Repositorio Oficial en GitHub] (https://github.com/viclaix666/documentacion-sistema-v1-)
