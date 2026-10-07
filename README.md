@@ -1,8 +1,7 @@
 # Sistema de Gestión de Inventario - TechStore
 # Portal Web de Documentación
 
-**Sitio Web en Vivo:** [Haz clic aquí para ver la Documentación Publicada]
-(https://viclaix66.github.io/documentacion-sistema-v1/)
+**Sitio Web en Vivo:** [Haz clic aquí para ver la Documentación Publicada](https://viclaix66.github.io/documentacion-sistema-v1/)
 
 ## 1. Descripción del Proyecto
 
