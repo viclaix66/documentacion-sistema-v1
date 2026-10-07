@@ -2,7 +2,6 @@
 # Portal Web de Documentación
 
 **Sitio Web en Vivo:** [Haz clic aquí para ver la Documentación Publicada](https://viclaix66.github.io/documentacion-sistema-v1/)
-
 ## 1. Descripción del Proyecto
 
 Este es un **sistema de ventas e inventario en tiempo real** optimizado para el control de existencias y facturación[cite: 1]. Desarrollado exclusivamente para la empresa *TechStore*, permite **agilizar los procesos comerciales** y garantizar una administración eficiente[cite: 1].
