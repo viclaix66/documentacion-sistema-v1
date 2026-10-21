@@ -14,3 +14,5 @@ nav:
       - Especificacion de API: api_endpoints.md
       - Seguridad y Mantenimiento: seguridad.md
       - Guía de Usuario UX: manual_usuario_ux.md
+  - Centro de Ayuda & Videos:
+      - Preguntas Frecuentes (FAQ): faq.md
