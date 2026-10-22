@@ -16,5 +16,5 @@ Prohibido realizar commits directos sobre la rama main. Todo cambio debe trabaja
 ## 3. Estándar de Mensajes de Commit
 Utiliza el estándar de Commits Convencionales:
 * `docs:` para cambios en archivos Markdown o documentaciones.
-* `fix:` para corrección de enlaces rotos o errores visuales.
+* `fix:` para corrección de enlaces rotos o erroreas visuales.
 * `feat:` para inclusión de nuevos módulos o páginas.
