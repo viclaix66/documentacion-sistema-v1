@@ -38,10 +38,9 @@ return "Sin Stock"
 - [Ver Diagrama de Secuencia de Login](docs/arquitectura/secuencia-autenticacion.md)
 - [Ver Arquitectura del Sistema](docs/arquitectura.md)
 - [Ver Manual de Usuario](docs/manual_usuario.md)
-- 
+- [Ver Especificacion de API](docs/api_endpoints.md)
+- [Repositorio Oficial en GitHub] (https://github.com/viclaix66/documentacion-sistema-v1-)
+  
 ## Licencia y Gobernanza
 * Este proyecto se distribuye bajo los términos de la **[Licencia MIT](LICENSE)**.
 * Consulta nuestra **[Guía de Contribución](CONTRIBUTING.md)** para reportar fallos o proponer mejoras.
-
-- [Ver Especificacion de API](docs/api_endpoints.md)
-- [Repositorio Oficial en GitHub] (https://github.com/viclaix66/documentacion-sistema-v1-)
